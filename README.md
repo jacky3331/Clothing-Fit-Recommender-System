@@ -1,4 +1,4 @@
-#### Clothing-Fit-Recommender-System ####
+#### Clothing-Fit-Recommender-System (CSE 158 Final Project) ####
 A machine learning algorithm which predicts how a piece of clothing would fit a user with specific set of characteristics (i.e. height, weight, size, etc.); utilizing data from renttherunway to make predictions.
 
 #### Project Updates ####
