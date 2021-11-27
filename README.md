@@ -6,15 +6,15 @@ A machine learning algorithm which predicts how a piece of clothing would fit a 
 - Experimentation w/ different hyperparameters (test size, regularization, class balance, etc.)
 
 #### Acknowledgements ####
-Decomposing fit semantics for product size recommendation in metric spaces \n
-Rishabh Misra, Mengting Wan, Julian McAuley \n
-RecSys, 2018 \n
-https://cseweb.ucsd.edu//~jmcauley/pdfs/recsys18e.pdf \n
+Decomposing fit semantics for product size recommendation in metric spaces 
+Rishabh Misra, Mengting Wan, Julian McAuley 
+RecSys, 2018 
+https://cseweb.ucsd.edu//~jmcauley/pdfs/recsys18e.pdf 
 
-Recommending Product Sizes to Customers \n
-Vivek Sembium, Rajeev Rastogi, Atul Saroop, Srujana Merugu \n
-RecSys'17 \n
-https://dl.acm.org/doi/pdf/10.1145/3109859.3109891 \n
+Recommending Product Sizes to Customers 
+Vivek Sembium, Rajeev Rastogi, Atul Saroop, Srujana Merugu 
+RecSys'17 
+https://dl.acm.org/doi/pdf/10.1145/3109859.3109891
 
 #### Dataset ####
 http://deepx.ucsd.edu/public/jmcauley/renttherunway/renttherunway_final_data.json.gz
