@@ -6,7 +6,7 @@ A machine learning algorithm which predicts how a piece of clothing would fit a 
 - Experimentation w/ different hyperparameters (test size, regularization, class balance, etc.)
 
 #### Acknowledgements ####
-Decomposing fit semantics for product size recommendation in metric spaces
+Decomposing fit semantics for product size recommendation in metric spaces \n
 Rishabh Misra, Mengting Wan, Julian McAuley
 RecSys, 2018
 https://cseweb.ucsd.edu//~jmcauley/pdfs/recsys18e.pdf
