@@ -2,7 +2,7 @@
 A machine learning algorithm which predicts how a piece of clothing would fit a user with specific set of characteristics (i.e. height, weight, size, etc.); utilizing data from renttherunway to make predictions.
 
 #### Project Updates ####
-- Implemented Softmax Regression for classification of whether a piece of clothing would be (small, fit, large) for a user.
+- Implemented Softmax Regression for classification of whether a piece of clothing would be (small, fit, large) for users.
 - Experimentation w/ different hyperparameters (test size, regularization, class balance, etc.)
 
 #### Acknowledgements ####
