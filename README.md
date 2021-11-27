@@ -3,7 +3,8 @@ A machine learning algorithm which predicts how a piece of clothing would fit a 
 
 #### Project Updates ####
 - Implemented Softmax Regression for classification of whether a piece of clothing would be (small, fit, large) for users.
-- Experimentation w/ different hyperparameters (test size, regularization, class balance, etc.)
+- Experimentation w/ different hyperparameters (regularization, balancing class labels, adding features, etc.)
+- Researching into implementing a multi-layer neural network to improve accuracy on edge cases (small-fit, fit,large)
 
 #### Acknowledgements ####
 Decomposing fit semantics for product size recommendation in metric spaces 
