@@ -7,14 +7,14 @@ A machine learning algorithm which predicts how a piece of clothing would fit a 
 
 #### Acknowledgements ####
 Decomposing fit semantics for product size recommendation in metric spaces \n
-Rishabh Misra, Mengting Wan, Julian McAuley
-RecSys, 2018
-https://cseweb.ucsd.edu//~jmcauley/pdfs/recsys18e.pdf
+Rishabh Misra, Mengting Wan, Julian McAuley \n
+RecSys, 2018 \n
+https://cseweb.ucsd.edu//~jmcauley/pdfs/recsys18e.pdf \n
 
-Recommending Product Sizes to Customers
-Vivek Sembium, Rajeev Rastogi, Atul Saroop, Srujana Merugu
-RecSys'17
-https://dl.acm.org/doi/pdf/10.1145/3109859.3109891
+Recommending Product Sizes to Customers \n
+Vivek Sembium, Rajeev Rastogi, Atul Saroop, Srujana Merugu \n
+RecSys'17 \n
+https://dl.acm.org/doi/pdf/10.1145/3109859.3109891 \n
 
 #### Dataset ####
 http://deepx.ucsd.edu/public/jmcauley/renttherunway/renttherunway_final_data.json.gz
