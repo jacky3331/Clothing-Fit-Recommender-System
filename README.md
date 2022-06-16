@@ -1,10 +1,8 @@
-#### Clothing-Fit-Recommender-System (CSE 158 Final Project) ####
-A machine learning algorithm which predicts how a piece of clothing would fit a user with specific set of characteristics (i.e. height, weight, size, etc.); utilizing data from renttherunway to make predictions.
+#### Clothing-Size-Recommender-System (CSE 158 Final Project) ####
+A machine learning algorithm which recommends clothing size based on body measurements and clothing information.
 
 #### Project Updates ####
-- Implemented Softmax Regression for classification of whether a piece of clothing would be (small, fit, large) for users.
-- Experimentation w/ different hyperparameters (regularization, balancing class labels, adding features, etc.)
-- Researching into implementing a multi-layer neural network to improve accuracy on edge cases (small-fit, fit-large)
+- Changed from classifying small, fit, large to a regression problem -- predicting clothing sizes
 
 #### Acknowledgements ####
 Decomposing fit semantics for product size recommendation in metric spaces 
